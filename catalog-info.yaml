@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dotnet-core-api
+  annotations:
+    github.com/project-slug: xpiyushdoorwar/dotnet-core-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: xpiyushdoorwar
